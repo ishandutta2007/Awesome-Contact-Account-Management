@@ -1,6 +1,6 @@
 # Awesome-Contact-Account-Management
 
-# Top Contact & Account Management Ecosystem
+## Top Contact & Account Management Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on CRM Contact Management, Account Tracking & Sales Pipeline Visibility*  
