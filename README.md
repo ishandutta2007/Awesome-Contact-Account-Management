@@ -4,10 +4,12 @@
 
 # 🌟 Awesome Contact & Account Management
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Contact-Account-Management/pulls)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ishandutta2007/Awesome-Contact-Account-Management/graphs/commit-activity)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 > 🚀 **The definitive curated index of Customer Relationship Management (CRM) tools, Contact & Account Management software, and self-hosted sales platforms.**  
 > *Targeted insights for sales teams, revops engineers, account executives, founders, and developers seeking top SaaS services or open-source self-hosted solutions.*
@@ -20,6 +22,8 @@
 - [💻 Open-Source GitHub Projects](#-open-source-github-projects)
 - [🛠️ Architecture & Deployment Guide](#-architecture--deployment-guide)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support](#-support)
+- [⭐ Star History](#-star-history)
 - [⚖️ Disclaimer & Compliance](#-disclaimer--compliance)
 
 ---
@@ -130,6 +134,24 @@ We welcome community suggestions, updates, and corrections! 💡
 3. 📝 **Update `README.md`**: Follow the established table schema (ensure accurate pricing, exact trial limits, social star badge, and proper category).
 4. 🚀 **Commit your changes**: `git commit -m "feat: add NewCRM with pricing and star badges"`.
 5. 📬 **Submit a Pull Request** with a brief summary of the additions.
+
+---
+
+## 💖 Support
+
+Thank you for visiting and supporting this ecosystem directory! 🙏
+
+If you found this list helpful for your sales operations, development, or tech stack decisions, please consider supporting the project:
+- ⭐ **Star** this repository to help others discover it.
+- 🍴 **Fork** and contribute new tools or update pricing benchmarks.
+- 📢 **Share** it with your fellow engineers, founders, and sales teams.
+- ☕ **Buy me a coffee**: If you'd like to support ongoing maintenance and new features, consider sponsoring via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## ⭐ Star History
+
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Contact-Account-Management&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Contact-Account-Management&type=date&legend=top-left)
 
 ---
 
