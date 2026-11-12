@@ -57,7 +57,7 @@ A comprehensive, transparent breakdown of commercial contact and account managem
 
 Self-hosted and community-driven customer relationship and account management repositories. Sorted by GitHub stargazers count (descending).
 
-| Repository | GitHub Stars | Tech Stack | Highlights & Description |
+| Repository | GitHub_Stars | Tech Stack | Highlights & Description |
 |:---|:---:|:---|:---|
 | **[Twenty](https://github.com/twentyhq/twenty)** | [![Stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers) | TypeScript, React, NestJS, PostgreSQL | Modern, fast, and open-source Salesforce alternative. Built with an API-first architecture, customizable data models, visual pipelines, and modern collaboration tools. |
 | **[Odoo](https://github.com/odoo/odoo)** | [![Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) | Python, JavaScript, PostgreSQL | Modular ERP suite with an enterprise CRM module for lead scoring, pipeline management, quoting, and integrated customer communication. |
@@ -131,8 +131,8 @@ We welcome community suggestions, updates, and corrections! 💡
 
 1. 🍴 **Fork the repository**.
 2. 🌿 **Create your branch**: `git checkout -b feature/add-new-crm`.
-3. 📝 **Update `README.md`**: Follow the established table schema (ensure accurate pricing, exact trial limits, social star badge, and proper category).
-4. 🚀 **Commit your changes**: `git commit -m "feat: add NewCRM with pricing and star badges"`.
+3. 📝 **Update `README.md`**: Follow the established table schema (ensure accurate pricing, exact trial limits, social Stars_Badge, and proper category).
+4. 🚀 **Commit your changes**: `git commit -m "feat: add NewCRM with pricing and Stars_Badges"`.
 5. 📬 **Submit a Pull Request** with a brief summary of the additions.
 
 ---
